@@ -8,13 +8,13 @@ class Nothing {
     return "Nothing";
   }
   getDescription() {
-    return 'This plugin does nothing.\n\nMy Discord server: https://join-nebula.surge.sh\nDM me @Lucario ☉ ∝ x²#7902 or create an issue at https://github.com/Mega-Mewthree/BetterDiscordPlugins for support.';
+    return 'This plugin does nothing.';
   }
   getVersion() {
     return "0";
   }
   getAuthor() {
-    return "Mega_Mewthree"; //Current Discord account: @Lucario ☉ ∝ x²#7902 (438469378418409483)
+    return "Dark-LYNN";
   }
   constructor() {
 
