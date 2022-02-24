@@ -18,8 +18,8 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](./)
-[![Website discord-bot.xyz](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://discord-bot.xyz/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dark-LYNN/Cloud-Development)
+[![Website discord-bot.xyz](https://img.shields.io/Discord-Bot-up-down-green-red/http/shields.io.svg)](http://discord-bot.xyz/)
 
 <!-- PROJECT LOGO -->
 <br />
