@@ -19,7 +19,7 @@
 <!-- PROJECT SHIELDS -->
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Dark-LYNN/Cloud-Development)
-[![Website discord-bot.xyz](https://img.shields.io/DiscordBot-up-down-green-red/http/shields.io.svg)](http://discord-bot.xyz/)
+[![Website discord-bot.xyz](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://discord-bot.xyz/)
 
 <!-- PROJECT LOGO -->
 <br />
