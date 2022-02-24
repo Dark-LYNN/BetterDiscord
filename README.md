@@ -24,6 +24,7 @@
 [![ko-fi](https://img.shields.io/badge/Donate-Ko-Fi-5966F3.svg)](https://ko-fi.com/O5O380K8U)
 
 <!-- PROJECT LOGO -->
+
 <br /> 
 <div align="center">
   <a href="https://github.com/Dark-LYNN/BetterDiscord/">
