@@ -36,9 +36,9 @@
     Dark-LYNN's BetterDiscord Extentions!
     <br />
     <br />
-    <a href="https://github.com/Dark-LYNN/BetterDiscord/Plugins">Plugins</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/tree/v1.0.0/Plugins">Plugins</a>
     ·
-    <a href="https://github.com/Dark-LYNN/BetterDiscord/Themes">Themes</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/tree/v1.0.0/Themes">Themes</a>
     .
     <a href="https://github.com/Dark-LYNN/BetterDiscord/issues">Report Bug</a>
     ·
