@@ -40,8 +40,8 @@
     ·
     <a href="https://github.com/Dark-LYNN/BetterDiscord/tree/v1.0.0/Themes">Themes</a>
     .
-    <a href="https://github.com/Dark-LYNN/BetterDiscord/issues">Report Bug</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/discussions/new?category=bugs">Report Bug</a>
     ·
-    <a href="https://github.com/Dark-LYNN/BetterDiscord/issues">Request Feature</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/discussions/new?category=ideas">Request Feature</a>
   </p>
 </div>
