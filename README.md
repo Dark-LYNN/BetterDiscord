@@ -26,22 +26,22 @@
 <!-- PROJECT LOGO -->
 <br /> 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Dark-LYNN/BetterDiscord/">
+    <img src="https://github.com/Dark-LYNN/BetterDiscord/blob/v1.0.0/Extra/DarkLYNN.png?raw=true" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">BetterDiscord</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    Dark-LYNN's BetterDiscord Extentions!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/Plugins">Plugins</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/Themes">Themes</a>
+    .
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Dark-LYNN/BetterDiscord/issues">Request Feature</a>
   </p>
 </div>
