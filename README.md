@@ -18,8 +18,8 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![status](https://img.shields.io/badge/status%3A-Maintained-5966F3.svg)](https://github.com/Dark-LYNN/Cloud-Development)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/Dark-LYNN/Cloud-Development/)](https://gitlab.com/Dark-LYNN/Cloud-Development)
+[![status](https://img.shields.io/badge/status%3A-Maintained-5966F3.svg)](https://github.com/Dark-LYNN/BetterDiscord)
+[![stars](https://badgen.net/github/stars/Dark-LYNN/BetterDiscord/)](https://gitlab.com/Dark-LYNN/BetterDiscord)
 
 <!-- PROJECT LOGO -->
 <br />
