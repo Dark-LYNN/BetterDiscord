@@ -18,7 +18,7 @@
 
 <!-- PROJECT SHIELDS -->
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-5966F3.svg)](https://github.com/Dark-LYNN/Cloud-Development)
+[![status](https://img.shields.io/badge/status%3F-Maintained-5966F3.svg)](https://github.com/Dark-LYNN/Cloud-Development)
 
 <!-- PROJECT LOGO -->
 <br />
