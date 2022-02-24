@@ -21,7 +21,7 @@
 [![stars](https://badgen.net/github/stars/Dark-LYNN/BetterDiscord/)](https://github.com/Dark-LYNN/BetterDiscord)
 [![license](https://badgen.net/github/license/Dark-LYNN/betterdiscord/)](https://github.com/Dark-LYNN/BetterDiscord/blob/v1.0.0/LICENSE)
 [![discord](https://badgen.net/discord/members/gTuabejrGb/)](https://discord.gg/gTuabejrGb)
-[![donate](https://img.shields.io/badge/Donate-Ko-Fi-5966F3.svg)](https://ko-fi.com/O5O380K8U)
+[![donate](https://img.shields.io/badge/Donate-KoFi-5966F3.svg)](https://ko-fi.com/O5O380K8U)
 
 <!-- PROJECT LOGO -->
 
