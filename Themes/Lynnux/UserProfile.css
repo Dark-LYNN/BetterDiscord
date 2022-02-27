@@ -1,14 +1,42 @@
-/**
-* @name Lynnux
-* @author Dark-LYNN#6568
-* @authorLink https://discordapp.com/users/705306248538488947
-* @authorId 705306248538488947
-* @description Work In Progress.
-* @version 1.0
-* @source https://github.com/Dark-LYNN/BetterDiscord/tree/v1.0.0/Themes/Lynnux
-* @updateUrl https://github.com/Dark-LYNN/BetterDiscord/tree/v1.0.0/Themes/Lynnux/Lynnux.theme.css
-*//*
+.topSection-13QKHs .layer-1Ixpg3 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.topSection-13QKHs .profileBannerPremium-KD60EB {
+    width: 400px;
+    height: 200px;
+}
+.root-8LYsGj {
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    width: 400px;
+    background-color: var(--background-floating);
+    max-height: unset;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+}
 
+.header-S26rhB .avatar-3QF_VA {
+    top: -100px;
+}
+
+.avatar-3QF_VA.wrapper-1VLyxH .mask-1FEkla {
+    height: 100%;
+}
+.header-S26rhB .avatar-3QF_VA.wrapper-1VLyxH .wrapper-1VLyxH {
+    position: relative;
+    border-radius: 10%;
+}
+
+
+
+
+
+
+
+
+/*
 ⣿⡟⠙⠛⠋⠩⠭⣉⡛⢛⠫⠭⠄⠒⠄⠄⠄⠈⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⡇⠄⠄⠄⠄⣠⠖⠋⣀⡤⠄⠒⠄⠄⠄⠄⠄⠄⠄⠄⠄⣈⡭⠭⠄⠄⠄⠉⠙
 ⣿⡇⠄⠄⢀⣞⣡⠴⠚⠁⠄⠄⢀⠠⠄⠄⠄⠄⠄⠄⠄⠉⠄⠄⠄⠄⠄⠄⠄⠄
@@ -30,7 +58,4 @@
 ⣿⣿⡃⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⢀⣇⣀⣀⣧⡀⠀⣀⣀⣀⣠⣆⠀⠀⣸⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⠈⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣧⣤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-
 */
-
-@import url("https://github.com/Dark-LYNN/BetterDiscord/tree/v1.0.0/Themes/Lynnux/UserProfile.css");
